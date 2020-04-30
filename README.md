@@ -1,7 +1,7 @@
 Template básica para aplicações React!
 
 libraries/features: {
-  rotas,
+  routes,
   babel,
   pages,
   layouts,
